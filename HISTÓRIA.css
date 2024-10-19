@@ -1,0 +1,41 @@
+header h1 {
+    text-align: center;
+}
+
+.história {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px auto;
+    max-width: 80%;
+    padding: 20px;
+   
+}
+
+body{
+    background-color: #bfd3e0;
+}
+
+p{
+    margin-left: 20px;
+    font-size: 1.1rem;
+    color: #333333;
+    line-height: 1.6;
+}
+.tudo {
+    
+    height: 25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem; 
+  }
+  
+  .tudo img {
+    width: 40rem; 
+    height: 25rem;
+  }
+  
+  .tudo p {
+    max-width: 60rem;
+  }

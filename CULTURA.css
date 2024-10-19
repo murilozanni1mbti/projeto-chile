@@ -1,0 +1,46 @@
+
+body{
+    background-color: #7295c5;
+}
+
+
+header h1 {
+    text-align: center;
+}
+
+.cultura {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px auto;
+    max-width: 80%;
+    padding: 20px;
+   
+}
+
+
+
+.eu {
+    
+    height: 25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem; 
+  }
+  
+  .eu img {
+    width: 40rem; 
+    height: 25rem;
+  }
+  
+  .eu p {
+    max-width: 60rem;
+  } 
+
+  p{
+    margin-left: 20px;
+    font-size: 1.1rem;
+    color: #333333;
+    line-height: 1.6;
+}
