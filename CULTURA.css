@@ -5,7 +5,14 @@ body{
 
 
 header h1 {
-    text-align: center;
+ 
+    background-color: #ffffff;
+    height: 8rem; 
+    display: flex;
+    justify-content: center; 
+    align-items: center;  
+    height: 100px;
+
 }
 
 .cultura {

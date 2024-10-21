@@ -1,5 +1,23 @@
 header h1 {
-    text-align: center;
+    
+    color: antiquewhite;
+      background-color: #000000;
+      height: 8rem; 
+      display: flex;
+      justify-content: center; 
+      align-items: center;  
+      height: 100px;
+
+
+      header{
+        background-color: #7B68EE;
+        height: 8rem; 
+        display: flex;
+        justify-content: center; 
+        align-items: center;  
+        height: 100px;
+    }
+  
 }
 
 .história {
