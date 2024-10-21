@@ -1,8 +1,39 @@
-header h1{
-    background-color: #f10303;
-    height: 8rem; 
-    display: flex;
-    justify-content: center; 
-    align-items: center;  
-    height: 100px;
+body{
+ background-color: #8489cf;
 }
+
+
+
+header h1{
+  text-align: center;
+}
+
+img {
+  width: 25rem;
+  height: 20rem;
+}
+
+.img1 {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+
+.img3 {
+    height: 20rem;
+    width: 15rem;
+}
+
+
+.p {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.hd {
+  display: flex;
+  gap: 55rem;
+  margin-bottom: 2rem;
+}
+
